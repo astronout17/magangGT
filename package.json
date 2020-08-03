@@ -9,6 +9,9 @@
   "author": "Aprilia Nurkasanah",
   "license": "ISC",
   "dependencies": {
+    "date-arithmetic": "^4.1.0",
+    "math.js": "^1.1.46",
+    "mathjs": "^7.1.0",
     "superheroes": "^3.0.0"
   }
 }

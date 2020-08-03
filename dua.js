@@ -1,13 +1,4 @@
-//menginisiasi npm
-/*
-.all
-Type: string[]
-Superhero names in alphabetical order.
 
-.random()
-Type: Function
-Random superhero name
-*/
-const superheroes = require('superheroes');
-
-console.log(superheroes.random());
+const dateArithmetic = require("date-arithmetic")
+const decade = dateArithmetic.decade(new Date)
+console.log(decade)
